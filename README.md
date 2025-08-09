@@ -1,6 +1,6 @@
 # Academic Projects Repository
 
-This repository contains coursework, exercises, and projects completed during my graduate studies in computational physics and related fields.
+This repository contains coursework, exercises, and projects completed during my graduate studies in MSC degree in physics of Data.
 
 ## Contents
 
