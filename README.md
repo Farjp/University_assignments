@@ -56,4 +56,4 @@ Each directory contains relevant documentation and code for the respective proje
 
 ---
 
-*This repository serves as a portfolio of academic work completed during graduate studies in computational physics and related interdisciplinary fields.*
+*This repository serves as a portfolio of academic work completed during graduate studies in physics of data at Unipd.*
