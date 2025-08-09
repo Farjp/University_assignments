@@ -22,7 +22,7 @@ This repository contains coursework, exercises, and projects completed during my
 
 ### MSc Thesis
 - **Format**: PDF document
-- Complete master's thesis research work
+- Complete master's thesis research work in Synthetic CT generation from MR and the final Presentation
 
 ## Repository Structure
 
@@ -48,7 +48,7 @@ These projects were completed as part of graduate coursework in computational ph
 - Machine learning and deep learning techniques
 - Epidemiological data analysis methods  
 - Hardware-software co-design approaches
-- Biological sequence analysis and prediction
+- Protein sequence analysis and prediction
 
 ## Usage
 
