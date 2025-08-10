@@ -1,68 +1,87 @@
-**Academic Projects Repository**
+# 🎓 Academic Projects Repository
 
-This repository contains coursework, exercises, and projects completed during my graduate studies in MSC degree in Physics of Data.
+> *Graduate coursework and research projects from MSC degree in Physics of Data at University of Padova*
 
-**Contents**
+---
 
-**Laboratory of Computational Physics Mod B (Group 2210)**
-* **Jupyter Notebooks**: Collection of exercises focused on Deep Learning applications
-* **Final Presentation**: Liquid Neural Networks for Protein Secondary Structure Prediction
-   * Implementation and analysis of Liquid NN architectures
-   * Application to biological sequence prediction problems
-   * Performance evaluation and comparison with traditional methods
+## 📚 **Project Portfolio**
 
-**Life Data Epidemiology**
-* **Final Presentation**: Course project presentation covering epidemiological data analysis methods and applications
+### 🧠 **Laboratory of Computational Physics Mod B** *(Group 2210)*
+```
+🔬 Deep Learning Applications & Neural Network Architectures
+```
+- **📓 Jupyter Notebooks**: Comprehensive exercises in Deep Learning implementations
+- **🚀 Final Project**: **Liquid Neural Networks for Protein Secondary Structure Prediction**
+  - ⚡ Advanced Liquid NN architectures for biological sequences
+  - 🧬 Protein structure prediction with temporal dynamics
+  - 📊 Performance benchmarking vs. traditional methods
 
-**Management and Analysis of Physics Dataset Mod A**
-* **Final Presentation**: Bubble Sorting Algorithm Implementation in VHDL
-   * Hardware description language implementation
-   * Algorithm optimization for physics data processing
-   * Performance analysis and benchmarking
+### 📈 **Life Data Epidemiology**
+```
+🦠 Statistical Analysis of Health Data
+```
+- **🎯 Final Presentation**: Epidemiological data analysis methodologies and real-world applications
 
-**Network Science**
-* **Final Project**: Homelessness in California - A Network Science Analysis
-   * Analysis of homelessness through word and hashtag networks from Twitter data
-   * Application of network properties (degree distribution, robustness, community detection)
-   * Topic modeling with BERTopic and sentiment analysis
-   * Investigation of causes, solutions, and public perception of homelessness
-   * Comparative analysis with New York data
+### ⚙️ **Management and Analysis of Physics Dataset Mod A**
+```
+🔧 Hardware-Software Integration
+```
+- **💾 Final Project**: **Bubble Sorting Algorithm in VHDL**
+  - 🛠️ Hardware description language implementation
+  - ⚡ Algorithm optimization for physics data processing
+  - 📏 Comprehensive performance analysis
 
-**MSc Thesis**
-* **Format**: PDF document
-* Complete master's thesis research work in Synthetic CT generation from MR and the final Presentation
+### 🌐 **Network Science**
+```
+🏠 Social Network Analysis & NLP
+```
+- **🎯 Final Project**: **Homelessness in California - A Network Science Perspective**
+  - 📱 Twitter data analysis (~90K tweets from California, ~27K from New York)
+  - 🕸️ Word and hashtag network construction and analysis
+  - 🎭 Community detection and network robustness studies
+  - 🤖 **BERTopic** topic modeling + sentiment analysis
+  - 🔍 Investigation of: *causes, solutions, public perception*
+  - 🗽 **California vs New York** comparative analysis
 
-**Repository Structure**
+### 📋 **MSc Thesis**
+```
+🏥 Medical Imaging & AI
+```
+- **📄 Research Document**: **Synthetic CT Generation from MR**
+- **🎤 Defense Presentation**: Complete thesis defense materials
+
+---
+
+## 🗂️ **Repository Structure**
 
 ```
-├── Jupyter_Notebooks_Group2210/     # Deep Learning exercises
-├── Final_Presentations/
-│   ├── Life_Data_Epidemiology/
-│   ├── Computational_Physics_ModB/   # Liquid NN project
-│   ├── Physics_Dataset_Analysis/     # VHDL bubble sort
-│   └── Network_Science/              # Homelessness analysis project
-└── MSc_Thesis/                      # Thesis document (PDF)
+📁 Academic_Projects_Repository/
+├── 🔬 Jupyter_Notebooks_Group2210/     # Deep Learning Lab
+├── 📊 Final_Presentations/
+│   ├── 🦠 Life_Data_Epidemiology/
+│   ├── 🧠 Computational_Physics_ModB/   # Liquid Neural Networks
+│   ├── ⚙️ Physics_Dataset_Analysis/     # VHDL Implementation
+│   └── 🌐 Network_Science/              # Homelessness Analysis
+└── 📋 MSc_Thesis/                      # Thesis & Presentation
 ```
 
-**Technologies Used**
-* **Python**: Jupyter Notebooks for deep learning implementations and data analysis
-* **Deep Learning Frameworks**: Various ML/DL libraries for neural network development
-* **VHDL**: Hardware description for algorithm implementation
-* **Liquid Neural Networks**: Specialized architecture for temporal sequence processing
-* **Network Science Tools**: Graph analysis and community detection algorithms
-* **Natural Language Processing**: BERTopic, NLTK for text preprocessing and topic modeling
-* **Twitter API**: Data collection and social media analysis
+---
 
-**Academic Context**
+## 🛠️ **Technology Stack**
 
-These projects were completed as part of graduate coursework in computational physics, demonstrating applications of:
-* Machine learning and deep learning techniques
-* Epidemiological data analysis methods
-* Hardware-software co-design approaches
-* Protein sequence analysis and prediction
-* Network science and social media analysis
-* Natural language processing for social phenomenon investigation
+| **Domain** | **Technologies** | **Applications** |
+|------------|------------------|------------------|
+| 🤖 **Machine Learning** | Python, TensorFlow, PyTorch | Deep Learning, Neural Networks |
+| 🌊 **Liquid Neural Networks** | Specialized architectures | Temporal sequence processing |
+| 🔧 **Hardware Design** | VHDL | Algorithm optimization |
+| 🌐 **Network Science** | NetworkX, Graph-tool | Social network analysis |
+| 📝 **Natural Language Processing** | BERTopic, NLTK | Topic modeling, sentiment analysis |
+| 📱 **Data Collection** | Twitter API | Social media data mining |
+| 🏥 **Medical Imaging** | Medical AI frameworks | Synthetic image generation |
 
-**Usage**
+---
 
-Each directory contains relevant documentation and code for the respective projects. Jupyter notebooks include detailed explanations and results for the deep learning exercises and network analysis.
+
+
+
+
